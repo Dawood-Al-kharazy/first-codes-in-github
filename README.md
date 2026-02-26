@@ -15,8 +15,8 @@ Here I am going to write something to practice Markdown.
 This is my LinkedIn profile. If you want to take a look👀
 [My LinkedIn profile](www.linkedin.com/in/dawood-al-kharazy-9220953b3)
 
-And this is the code for you😁: 
-'print("Helooooooooo")'
+And this is the code for you😁:
+`print("Hellooooooooo")`
 There are 9 Os, and the tenth is you 🤷‍♂️
 
 And this is the quote, dear😊
