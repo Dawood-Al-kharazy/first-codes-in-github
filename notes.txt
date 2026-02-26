@@ -1,0 +1,18 @@
+// this is form running the venv
+نفّذ الأمر مؤقتًا للسطر الحالي فقط:
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
+ثم أعد تشغيل:
+.\venv\Scripts\Activate.ps1
+
+
+// this is how to create file in python terminal
+Set-Content -Path "main.py" -Value ""
+
+
+// this is the key
+
+form phone:
+
+
+// this is how to run the server
+uvicorn main:app --reload
